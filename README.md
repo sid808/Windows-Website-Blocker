@@ -1,2 +1,2 @@
 # Windows-Website-Blocker
-Compile and run the program using python compiler.
+Compile and run the program "home.py" using python compiler.
