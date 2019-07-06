@@ -1,2 +1,2 @@
 # Windows-Website-Blocker
-Website blocker using Python
+Compile and run the program using python compiler.
