@@ -1,0 +1,25 @@
+Detailed information about the tool:-
+
+Introduction:
+This tool is a very simple way to block any site you want.
+We can add site or sites list in options page and they will blocked automatically.
+
+Tools used:
+Tkinter with the help of python language.
+
+Accuracy and Performance:
+This tool is so much powerful that whenever you want and whatever you want to block the site,
+it can block very easily.You can also unblock(earlier blocked sites) the site with 100% accuracy.
+
+Advantages:
+Parental control over child using internet.
+No disturbance during working hours and especially for the students and in the office.
+
+Disadvantages:
+None
+
+Conclusion:
+The Site Blocker provide simple and easiest way to block any web site you want.
+We can block or unblock(the blocked sites) web sites by just clicking.
+So, we can say that it is an very effecient tool for at our homes, office etc for controlling distractions from the internet.
+ 
