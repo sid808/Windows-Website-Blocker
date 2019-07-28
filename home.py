@@ -52,7 +52,7 @@ def bye():
          root.destroy();
 
 def reach():
-    tkinter.messagebox.showinfo("Contact Us","Puja : bhard.puja@gmail.com\nSiddharth : aadarsh.siddharth@gmail.com\nShubham : 94727shubham@gmail.com")
+    tkinter.messagebox.showinfo("Contact Us","\nSiddharth : aadarsh.siddharth@gmail.com\n")
 
 root = Tk()
 root.geometry("850x650")
